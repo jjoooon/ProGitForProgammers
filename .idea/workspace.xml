@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f01c0b6e-f05d-4a7d-9e8f-1ee8730c8ab1" name="Changes" comment="add">
+    <list default="true" id="f01c0b6e-f05d-4a7d-9e8f-1ee8730c8ab1" name="Changes" comment="commit sub.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/sub.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634356462133</updated>
-      <workItem from="1634356464214" duration="3434000" />
+      <workItem from="1634356464214" duration="4905000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1634358494153</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634358494153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit sub.css">
+      <created>1634376656690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634376656690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="commit sub.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit sub.css" />
   </component>
 </project>
