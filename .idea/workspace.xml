@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01c0b6e-f05d-4a7d-9e8f-1ee8730c8ab1" name="Changes" comment="commit sub.css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/sub.css" afterDir="false" />
+      <changelist_data name="jjoooon" email="yunjunmo@gmail.com" date="1634376749000" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634356462133</updated>
-      <workItem from="1634356464214" duration="4905000" />
+      <workItem from="1634356464214" duration="4997000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1634358494153</created>
